@@ -5,5 +5,5 @@
 <td>Roll</td></tr>
 <tr><td>Jihad</td>
 <td>01</td></tr>
-<tr><td>al amin</td></tr>
+<tr><td>al amin</td>
 <td>02</td></tr>
